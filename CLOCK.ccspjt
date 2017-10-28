@@ -1,0 +1,24 @@
+[PROJECT]
+Target=CLOCK.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.025
+Compiler=PCM
+CCSVersion=5.025
+[Target Data]
+FileList=CLOCK.c
+[Directories]
+Include=
+[C:\Users\Dung Phan\Documents\CLOCK]
+Type=4
+[mru-list]
+1=CLOCK.c
+[Opened Files]
+1=CLOCK.c
+2=
+3=..\..\..\Program Files (x86)\PICC\Devices\16F877A.h
+4=
+[CLOCK.c]
+Type=4
+[Units]
+Count=1
+1=CLOCK (main)

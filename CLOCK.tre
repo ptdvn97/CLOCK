@@ -1,0 +1,25 @@
+ÀÄCLOCK
+   ÃÄMAIN  0/276  Ram=1
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@DIV88  0/21  Ram=3
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@const623  0/14  Ram=0
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÀÄ@delay_ms1  0/20  Ram=1
+   ÀÄngatTimer0  0/12  Ram=0
